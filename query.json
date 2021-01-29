@@ -1,0 +1,12 @@
+[
+    {
+      "$search": {
+        "index": "default", 
+        "near": {
+          "path": "asciiTitle", 
+          "origin": 0, 
+          "pivot": 1
+        }
+      }
+    }
+  ]
